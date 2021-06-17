@@ -1,0 +1,3 @@
+ls -a 
+cd ..
+git push
